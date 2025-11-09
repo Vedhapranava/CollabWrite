@@ -1,9 +1,6 @@
 
 # Introduction
-
-[CollabWrite](https://collaboration-tool.vercel.app/) is my and [Divyesh Jain](https://hashnode.com/@Djain2511)'s submission for the Appwrite Hackathon.
-
-We are excited to introduce a seamless and intuitive way for you to unleash your creativity and communicate your ideas visually.With our user-friendly interface, you can effortlessly create diagrams with a touch of your finger or the precision of your mouse.
+I are excited to introduce a seamless and intuitive way for you to unleash your creativity and communicate your ideas visually.With our user-friendly interface, you can effortlessly create diagrams with a touch of your finger or the precision of your mouse.
 
 Imagine having the freedom to brainstorm ideas, map out strategies, or present complex information in a visually captivating manner. Collaboration is at the heart of our app, allowing you to work seamlessly with others in real-time. Whether you're working on a team project or seeking feedback from colleagues, our app's collaborative features ensure that everyone is on the same page.
 
@@ -170,3 +167,4 @@ https://www.youtube.com/watch?v=1AIm2VsOQE4
 # Conclusion
 
 Appwrite played a pivotal role in bringing our project to life, serving as the backbone that allowed us to meet our ambitious goals within the allotted timeframe. Without Appwrite, our vision would have been significantly more challenging to realize. Looking ahead, we are committed to further enhancing and expanding this project, recognizing its immense potential for future growth and innovation. We extend our heartfelt gratitude to [Appwrite](https://appwrite.io/) and [Hashnode](https://hashnode.com/) for granting us this incredible opportunity to leverage their platforms, which have proven instrumental in our success thus far. Their support has been invaluable, and we are excited to continue this collaborative journey together.
+
